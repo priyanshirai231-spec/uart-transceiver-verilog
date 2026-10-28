@@ -1,0 +1,10 @@
+# Simulation outputs and wave dumps
+uart_sim
+*.vcd
+*.vvp
+
+# Editor & OS artifacts
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
